@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjana!
 
-I'm an Information Science and Engineering student, passionate about **Python, AI, ML, and Web Technologies**.  
+I'm an Information Science and Engineering student.
 Always exploring new ideas and expanding my knowledge through continuous learning.
 
 ### 🔧 Skills
